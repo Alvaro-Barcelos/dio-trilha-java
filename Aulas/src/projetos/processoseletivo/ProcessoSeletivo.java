@@ -2,7 +2,7 @@ package projetos.processoseletivo;
 
 public class ProcessoSeletivo {
 	public static void main(String[] args) {
-		System.out.println("Processo seletivo ");
+		System.out.println("--  Processo seletivo --");
 		
 		analisarCandidato(1900.0);
 		analisarCandidato(2200.0);
